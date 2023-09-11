@@ -19,7 +19,7 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: ""
+                url: "https://github.com/Narian318/Java_app_3.0.git"
             )
             }
         }
